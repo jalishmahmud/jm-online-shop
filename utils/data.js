@@ -4,7 +4,7 @@ const data = {
       name: 'Free Shirt',
       slug: 'free-shirt',
       category: 'Shirts',
-      image: 'images/shirt1.jpeg',
+      image: '/images/shirt1.jpeg',
       price: 40,
       brand: 'Nike',
       rating: 4.5,
